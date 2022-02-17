@@ -1,0 +1,350 @@
+2020.09.21 11:54:44 INFO  started: Metals version 0.9.3 in workspace 'C:\Users\user\tcpclient' for client vscode.
+2020.09.21 11:54:45 INFO  time: initialize in 0.67s
+2020.09.21 11:54:46 WARN  no build tool detected in workspace 'C:\Users\user\tcpclient'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.21 11:54:46 INFO  no build target: using presentation compiler with only scala-library
+2020.09.21 11:54:49 WARN  no build target for: C:\Users\user\tcpclient\src\main\scala\TCPClient.scala
+Sep 21, 2020 11:54:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+Sep 21, 2020 11:54:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+Sep 21, 2020 11:54:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+2020.09.21 11:54:51 WARN  no build tool detected in workspace 'C:\Users\user\tcpclient'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.21 11:54:51 WARN  no build target for: C:\Users\user\tcpclient\src\main\scala\TCPClient.scala
+Sep 21, 2020 11:54:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+Sep 21, 2020 11:54:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+Sep 21, 2020 11:54:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+Sep 21, 2020 11:54:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11
+2020.09.21 11:54:51 WARN  no build tool detected in workspace 'C:\Users\user\tcpclient'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.21 11:54:51 WARN  no build target for: C:\Users\user\tcpclient\src\main\scala\TCPClient.scala
+2020.09.21 11:55:15 WARN  no build target for: C:\Users\user\tcpclient\src\main\scala\TCPClient.scala
+2020.09.21 11:55:23 WARN  no build target for: C:\Users\user\tcpclient\src\main\scala\TCPClient.scala
+2020.09.21 11:55:28 WARN  no build target for: C:\Users\user\tcpclient\src\main\scala\TCPClient.scala
+2020.09.21 11:56:53 WARN  no build tool detected in workspace 'C:\Users\user\tcpclient'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.21 11:57:05 WARN  no build target for: C:\Users\user\tcpclient\src\main\scala\TCPClient.scala
+2020.09.21 11:57:29 WARN  no build target for: C:\Users\user\tcpclient\src\main\scala\TCPClient.scala
+2020.09.21 11:57:42 WARN  no build target for: C:\Users\user\tcpclient\src\main\scala\TCPClient.scala
+2020.09.21 11:57:49 WARN  no build target for: C:\Users\user\tcpclient\src\main\scala\TCPClient.scala
+2020.09.21 11:57:53 WARN  no build target for: C:\Users\user\tcpclient\src\main\scala\TCPClient.scala
+2020.09.21 11:58:56 WARN  no build tool detected in workspace 'C:\Users\user\tcpclient'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.21 11:58:56 WARN  no build tool detected in workspace 'C:\Users\user\tcpclient'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.21 11:58:56 WARN  no build target for: C:\Users\user\tcpclient\src\main\scala\TCPClient.scala
+2020.09.21 11:58:56 WARN  no build tool detected in workspace 'C:\Users\user\tcpclient'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.21 11:59:01 WARN  no build tool detected in workspace 'C:\Users\user\tcpclient'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.21 11:59:01 WARN  no build target for: C:\Users\user\tcpclient\src\main\scala\TCPClient.scala
+2020.09.21 11:59:01 WARN  no build tool detected in workspace 'C:\Users\user\tcpclient'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.21 11:59:04 WARN  no build target for: C:\Users\user\tcpclient\src\main\scala\TCPClient.scala
+2020.09.21 11:59:04 WARN  no build tool detected in workspace 'C:\Users\user\tcpclient'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.21 11:59:57 WARN  no build target for: C:\Users\user\tcpclient\src\main\scala\TCPClient.scala
+2020.09.21 12:00:07 WARN  no build target for: C:\Users\user\tcpclient\src\main\scala\TCPClient.scala
+2020.09.21 12:00:26 WARN  no build target for: C:\Users\user\tcpclient\src\main\scala\TCPClient.scala
+2020.09.21 12:01:06 WARN  no build target for: C:\Users\user\tcpclient\src\main\scala\TCPClient.scala
+2020.09.21 12:01:24 WARN  no build target for: C:\Users\user\tcpclient\src\main\scala\TCPClient.scala
+2020.09.21 12:01:54 WARN  no build target for: C:\Users\user\tcpclient\src\main\scala\TCPClient.scala
+2020.09.21 12:02:15 WARN  no build target for: C:\Users\user\tcpclient\src\main\scala\TCPClient.scala
+2020.09.21 12:02:15 WARN  no build tool detected in workspace 'C:\Users\user\tcpclient'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Sep 21, 2020 12:08:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 878
+Sep 21, 2020 12:09:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 891
+Sep 21, 2020 12:09:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 893
+2020.09.21 12:09:41 WARN  no build target for: C:\Users\user\tcpclient\src\main\scala\TCPClient.scala
+Sep 21, 2020 12:09:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 889
+2020.09.21 12:09:45 WARN  no build target for: C:\Users\user\tcpclient\src\main\scala\TCPClient.scala
+2020.09.21 12:09:47 WARN  no build target for: C:\Users\user\tcpclient\src\main\scala\TCPClient.scala
+2020.09.21 12:11:55 WARN  no build tool detected in workspace 'C:\Users\user\tcpclient'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.21 12:11:55 WARN  no build target for: C:\Users\user\tcpclient\src\main\scala\TCPClient.scala
+2020.09.21 12:13:42 WARN  no build target for: C:\Users\user\tcpclient\src\main\scala\TCPClient.scala
+2020.09.21 12:13:42 WARN  no build tool detected in workspace 'C:\Users\user\tcpclient'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.21 12:14:02 WARN  no build tool detected in workspace 'C:\Users\user\tcpclient'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.21 12:14:02 WARN  no build target for: C:\Users\user\tcpclient\src\main\scala\TCPClient.scala
+2020.09.21 12:43:05 INFO  shutting down Metals
+2020.12.10 23:48:14 INFO  Started: Metals version 0.9.7 in workspace 'C:\Users\user\tcpclient' for client vscode.
+2020.12.10 23:48:15 INFO  time: initialize in 1.08s
+2020.12.10 23:48:17 WARN  Build server is not auto-connectable.
+2020.12.10 23:48:17 WARN  no build target for: C:\Users\user\tcpclient\src\main\scala\TCPClient.scala
+2020.12.10 23:48:23 INFO  no build target: using presentation compiler with only scala-library
+2020.12.11 00:05:32 WARN  no build target for: C:\Users\user\tcpclient\src\main\scala\TCPClient.scala
+Dec 11, 2020 12:05:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 30
+2020.12.11 00:05:42 WARN  no build target for: C:\Users\user\tcpclient\src\main\scala\TCPClient.scala
+2020.12.11 00:05:46 WARN  code navigation does not work for the file 'C:\Users\user\tcpclient\src\main\scala\TCPClient.scala' because it doesn't belong to a build target.
+2020.12.11 00:05:48 WARN  no build target for: C:\Users\user\tcpclient\src\main\scala\TCPClient.scala
+2020.12.11 00:06:41 WARN  code navigation does not work for the file 'C:\Users\user\tcpclient\src\main\scala\TCPClient.scala' because it doesn't belong to a build target.
+2020.12.11 00:06:41 WARN  code navigation does not work for the file 'C:\Users\user\tcpclient\src\main\scala\TCPClient.scala' because it doesn't belong to a build target.
+2020.12.11 00:06:41 WARN  code navigation does not work for the file 'C:\Users\user\tcpclient\src\main\scala\TCPClient.scala' because it doesn't belong to a build target.
+2020.12.11 00:06:41 WARN  no build target for: C:\Users\user\tcpclient\src\main\scala\TCPClient.scala
+2020.12.11 00:06:48 WARN  no build target for: C:\Users\user\tcpclient\src\main\scala\TCPClient.scala
+2020.12.11 00:06:51 WARN  no build target for: C:\Users\user\tcpclient\src\main\scala\TCPClient.scala
+Dec 11, 2020 12:08:39 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.InterruptedException
+java.util.concurrent.CompletionException: java.lang.InterruptedException
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273)
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:673)
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646)
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488)
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:1975)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:42)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.pc.VirtualFileParams.checkCanceled(VirtualFileParams.java:25)
+	at scala.meta.internal.pc.CompletionProvider.$anonfun$completions$1(CompletionProvider.scala:76)
+	at scala.collection.Iterator$$anon$10.next(Iterator.scala:461)
+	at scala.collection.Iterator.toStream(Iterator.scala:1417)
+	at scala.collection.Iterator.toStream$(Iterator.scala:1416)
+	at scala.collection.AbstractIterator.toStream(Iterator.scala:1431)
+	at scala.collection.Iterator.$anonfun$toStream$1(Iterator.scala:1417)
+	at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1173)
+	at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1163)
+	at scala.collection.immutable.StreamIterator.$anonfun$next$1(Stream.scala:1061)
+	at scala.collection.immutable.StreamIterator$LazyCell.v$lzycompute(Stream.scala:1050)
+	at scala.collection.immutable.StreamIterator$LazyCell.v(Stream.scala:1050)
+	at scala.collection.immutable.StreamIterator.hasNext(Stream.scala:1055)
+	at scala.collection.convert.Wrappers$IteratorWrapper.hasNext(Wrappers.scala:31)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.CollectionTypeAdapter.write(CollectionTypeAdapter.java:134)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.CollectionTypeAdapter.write(CollectionTypeAdapter.java:40)
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.write(TypeAdapterRuntimeTypeWrapper.java:69)
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$1.write(ReflectiveTypeAdapterFactory.java:125)
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.write(ReflectiveTypeAdapterFactory.java:243)
+	at com.google.gson.Gson.toJson(Gson.java:669)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.MessageTypeAdapter.write(MessageTypeAdapter.java:423)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.MessageTypeAdapter.write(MessageTypeAdapter.java:55)
+	at com.google.gson.Gson.toJson(Gson.java:669)
+	at com.google.gson.Gson.toJson(Gson.java:648)
+	at org.eclipse.lsp4j.jsonrpc.json.MessageJsonHandler.serialize(MessageJsonHandler.java:145)
+	at org.eclipse.lsp4j.jsonrpc.json.MessageJsonHandler.serialize(MessageJsonHandler.java:140)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:59)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.lambda$handleRequest$1(RemoteEndpoint.java:281)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:670)
+	... 9 more
+
+Dec 11, 2020 12:08:40 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 171
+Dec 11, 2020 12:09:10 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 226
+Dec 11, 2020 12:09:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 265
+2020.12.11 00:10:36 WARN  code navigation does not work for the file 'C:\Users\user\tcpclient\src\main\scala\TCPClient.scala' because it doesn't belong to a build target.
+2020.12.11 00:10:36 WARN  no build target for: C:\Users\user\tcpclient\src\main\scala\TCPClient.scala
+2020.12.11 00:11:23 WARN  no build target for: C:\Users\user\tcpclient\src\main\scala\TCPClient.scala
+2020.12.11 00:11:41 WARN  code navigation does not work for the file 'C:\Users\user\tcpclient\src\main\scala\TCPClient.scala' because it doesn't belong to a build target.
+2020.12.11 00:11:41 WARN  no build target for: C:\Users\user\tcpclient\src\main\scala\TCPClient.scala
+Dec 11, 2020 12:27:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 450
+2020.12.11 00:27:13 WARN  code navigation does not work for the file 'C:\Users\user\tcpclient\src\main\scala\TCPClient.scala' because it doesn't belong to a build target.
+2020.12.11 00:27:21 WARN  no build target for: C:\Users\user\tcpclient\src\main\scala\TCPClient.scala
+Dec 11, 2020 12:27:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 456
+Dec 11, 2020 12:27:23 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 460
+Dec 11, 2020 12:27:23 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 464
+Dec 11, 2020 12:27:23 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 465
+Dec 11, 2020 12:27:23 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 458
+Dec 11, 2020 12:27:23 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 467
+Dec 11, 2020 12:27:23 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 470
+Dec 11, 2020 12:27:23 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 471
+Dec 11, 2020 12:27:23 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 468
+Dec 11, 2020 12:27:23 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 469
+Dec 11, 2020 12:27:24 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 474
+Dec 11, 2020 12:27:24 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 475
+Dec 11, 2020 12:27:24 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 479
+2020.12.11 00:27:22 INFO  time: code lens generation in 6.25s
+Dec 11, 2020 12:27:24 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 480
+Dec 11, 2020 12:27:24 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 481
+Dec 11, 2020 12:27:24 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 482
+Dec 11, 2020 12:27:24 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 485
+Dec 11, 2020 12:27:25 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 484
+Dec 11, 2020 12:27:25 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 486
+Dec 11, 2020 12:27:25 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 490
+Dec 11, 2020 12:27:25 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 491
+Dec 11, 2020 12:27:25 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 495
+Dec 11, 2020 12:28:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 496
+Dec 11, 2020 12:28:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 524
+Dec 11, 2020 12:28:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 525
+2020.12.11 00:28:03 WARN  no build target for: C:\Users\user\tcpclient\src\main\scala\TCPClient.scala
+Dec 11, 2020 12:28:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 476
+Dec 11, 2020 12:28:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 529
+Dec 11, 2020 12:28:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 528
+Dec 11, 2020 12:28:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 531
+Dec 11, 2020 12:28:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 530
+Dec 11, 2020 12:28:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 532
+Dec 11, 2020 12:28:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 534
+Dec 11, 2020 12:28:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 536
+Dec 11, 2020 12:28:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 537
+Dec 11, 2020 12:28:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 535
+Dec 11, 2020 12:28:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 540
+Dec 11, 2020 12:28:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 541
+Dec 11, 2020 12:28:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 543
+Dec 11, 2020 12:28:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 545
+Dec 11, 2020 12:28:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 546
+Dec 11, 2020 12:28:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 548
+Dec 11, 2020 12:28:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 549
+Dec 11, 2020 12:28:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 561
+Dec 11, 2020 12:28:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 562
+Dec 11, 2020 12:28:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 564
+Dec 11, 2020 12:28:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 565
+Dec 11, 2020 12:28:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 568
+Dec 11, 2020 12:28:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 569
+Dec 11, 2020 12:28:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 570
+Dec 11, 2020 12:28:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 576
+Dec 11, 2020 12:28:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 577
+Dec 11, 2020 12:28:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 581
+Dec 11, 2020 12:28:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 582
+Dec 11, 2020 12:28:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 585
+Dec 11, 2020 12:28:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 586
+Dec 11, 2020 12:28:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 593
+Dec 11, 2020 12:28:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 597
+Dec 11, 2020 12:28:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 598
+Dec 11, 2020 12:28:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 599
+Dec 11, 2020 12:28:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 607
+Dec 11, 2020 12:28:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 608
+Dec 11, 2020 12:28:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 611
+Dec 11, 2020 12:28:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 612
+Dec 11, 2020 12:28:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 615
+Dec 11, 2020 12:28:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 616
+Dec 11, 2020 12:28:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 618
+Dec 11, 2020 12:28:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 619
+Dec 11, 2020 12:28:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 620
+Dec 11, 2020 12:28:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 634
+Dec 11, 2020 12:28:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 640
+Dec 11, 2020 12:28:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 641
+Dec 11, 2020 12:28:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 644
+Dec 11, 2020 12:28:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 645
+Dec 11, 2020 12:28:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 648
+Dec 11, 2020 12:28:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 650
+Dec 11, 2020 12:28:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 653
+Dec 11, 2020 12:28:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 654
+Dec 11, 2020 12:28:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 538
+Dec 11, 2020 12:28:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 660
+Dec 11, 2020 12:28:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 661
+Dec 11, 2020 12:28:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 662
+Dec 11, 2020 12:28:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 669
+Dec 11, 2020 12:28:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 670
+Dec 11, 2020 12:28:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 674
+Dec 11, 2020 12:28:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 675
+Dec 11, 2020 12:28:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 678
+Dec 11, 2020 12:28:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 679
+Dec 11, 2020 12:28:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 682
+Dec 11, 2020 12:28:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 686
+Dec 11, 2020 12:28:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 683
+Dec 11, 2020 12:28:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 689
+Dec 11, 2020 12:28:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 692
+Dec 11, 2020 12:28:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 694
+2020.12.11 00:28:11 WARN  no build target for: C:\Users\user\tcpclient\src\main\scala\TCPClient.scala
+Dec 11, 2020 12:28:34 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 782
+Dec 11, 2020 12:28:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 852
+2020.12.11 00:28:52 WARN  no build target for: C:\Users\user\tcpclient\src\main\scala\TCPClient.scala
+2020.12.11 09:59:13 INFO  Started: Metals version 0.9.7 in workspace 'C:\Users\user\tcpclient' for client vscode.
+2020.12.11 09:59:14 INFO  time: initialize in 1.73s
+2020.12.11 09:59:21 WARN  Build server is not auto-connectable.
+2020.12.11 09:59:21 WARN  no build target for: C:\Users\user\tcpclient\src\main\scala\TCPClient.scala
+2020.12.11 09:59:22 INFO  skipping build import with status 'Requested'
+2020.12.11 09:59:38 INFO  no build target: using presentation compiler with only scala-library
+Dec 11, 2020 10:00:33 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+2020.12.11 10:01:54 INFO  shutting down Metals

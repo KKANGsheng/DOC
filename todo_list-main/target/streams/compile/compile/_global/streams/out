@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\User\final\src\main\scala\program\sunway\oop\view\TaskOverviewController.scala:24:21: ':' expected but '=' found.[0m
+[0m[[0m[31merror[0m] [0m[0m    private val date=new DatePicker(LocalDate.now)[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\User\final\src\main\scala\program\sunway\oop\view\TaskOverviewController.scala:112:2: identifier expected but eof found.[0m
+[0m[[0m[31merror[0m] [0m[0m}[0m
+[0m[[0m[31merror[0m] [0m[0m ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

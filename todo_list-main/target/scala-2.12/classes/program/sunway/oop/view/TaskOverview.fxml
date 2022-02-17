@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="424.0" prefWidth="498.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="program.sunway.oop.view.TaskOverviewController">
+   <children>
+      <TextField fx:id="taskTextField" layoutX="27.0" layoutY="25.0" prefHeight="25.0" prefWidth="274.0" promptText="What you want to do for today ?" />
+      <Button fx:id="completedbutton" layoutX="65.0" layoutY="377.0" mnemonicParsing="false" onAction="#handleCompletedtask" prefHeight="25.0" prefWidth="172.0" text="Completed Task" AnchorPane.bottomAnchor="20.0" AnchorPane.leftAnchor="70.0" />
+      <HBox layoutX="312.0" layoutY="64.0" spacing="10.0" AnchorPane.topAnchor="30.0">
+         <children>
+            <Button fx:id="addbutton" mnemonicParsing="false" onAction="#handleNewTask" text="Add Task" />
+            <Button fx:id="editbutton" lineSpacing="10.0" mnemonicParsing="false" onAction="#handleEditTask" text="Edit" />
+            <Button fx:id="deletebutton" mnemonicParsing="false" onAction="#handleRemoveTask" text="Remove" />
+         </children>
+      </HBox>
+      <ListView fx:id="taskList" layoutX="30.0" layoutY="55.0" prefHeight="314.0" prefWidth="267.0" />
+   </children>
+</AnchorPane>

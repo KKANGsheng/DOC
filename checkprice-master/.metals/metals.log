@@ -1,0 +1,1027 @@
+2020.12.12 12:59:48 INFO  Started: Metals version 0.9.7 in workspace 'C:\Users\user\CandS' for client vscode.
+2020.12.12 12:59:49 INFO  time: initialize in 0.99s
+2020.12.12 12:59:50 WARN  Build server is not auto-connectable.
+2020.12.12 12:59:50 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 12:59:50 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 12:59:55 INFO  no build target: using presentation compiler with only scala-library
+2020.12.12 13:03:54 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\Item.scala
+Dec 12, 2020 1:04:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 45
+2020.12.12 13:04:36 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\Item.scala
+2020.12.12 13:04:50 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 13:04:50 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\Item.scala
+2020.12.12 13:05:14 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 13:05:14 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 13:05:35 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 13:05:35 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 13:05:35 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 13:06:25 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 13:06:50 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 13:06:59 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 13:06:59 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 13:07:46 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 13:09:02 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 13:09:42 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\Item.scala
+2020.12.12 13:09:46 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 13:09:46 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\Item.scala
+2020.12.12 13:09:47 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 13:09:47 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 13:09:47 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 13:09:47 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 13:09:47 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+Dec 12, 2020 1:10:15 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:446)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Dec 12, 2020 1:10:15 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:446)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Dec 12, 2020 1:10:16 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:446)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Dec 12, 2020 1:10:16 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:446)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Dec 12, 2020 1:10:16 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:446)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Dec 12, 2020 1:10:16 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:446)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2020.12.12 13:10:17 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 13:10:55 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 13:10:55 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 13:10:55 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 13:11:13 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 13:11:18 INFO  shutting down Metals
+2020.12.12 13:21:52 INFO  Started: Metals version 0.9.7 in workspace 'C:\Users\user\CandS' for client vscode.
+2020.12.12 13:21:53 INFO  time: initialize in 0.63s
+2020.12.12 13:21:54 WARN  Build server is not auto-connectable.
+2020.12.12 13:21:54 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 13:21:54 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 13:21:54 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\Item.scala
+2020.12.12 13:21:57 INFO  no build target: using presentation compiler with only scala-library
+2020.12.12 13:22:07 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 13:23:28 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 13:23:44 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+Dec 12, 2020 1:23:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 99
+2020.12.12 13:23:57 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 13:24:00 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 13:24:10 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 14:12:06 INFO  Started: Metals version 0.9.7 in workspace 'C:\Users\user\CandS' for client vscode.
+2020.12.12 14:12:07 INFO  time: initialize in 0.9s
+2020.12.12 14:12:12 WARN  Build server is not auto-connectable.
+2020.12.12 14:12:12 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 14:12:12 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 14:12:12 WARN  no build target for: C:\Users\user\CandS\tcpclient\src\main\scala\TCPClient.scala
+2020.12.12 14:12:18 INFO  no build target: using presentation compiler with only scala-library
+2020.12.12 14:13:08 INFO  shutting down Metals
+2020.12.12 16:32:46 INFO  Started: Metals version 0.9.7 in workspace 'C:\Users\user\CandS' for client vscode.
+2020.12.12 16:32:47 INFO  time: initialize in 0.69s
+2020.12.12 16:32:48 WARN  Build server is not auto-connectable.
+2020.12.12 16:32:48 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 16:32:48 WARN  no build target for: C:\Users\user\CandS\tcpclient\src\main\scala\TCPClient.scala
+2020.12.12 16:32:48 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 16:32:52 INFO  no build target: using presentation compiler with only scala-library
+Dec 12, 2020 4:32:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+Dec 12, 2020 4:32:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+2020.12.12 16:32:57 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 16:32:57 WARN  no build target for: C:\Users\user\CandS\tcpclient\src\main\scala\TCPClient.scala
+2020.12.12 16:33:05 WARN  no build target for: C:\Users\user\CandS\tcpclient\src\main\scala\TCPClient.scala
+2020.12.12 16:33:14 WARN  no build target for: C:\Users\user\CandS\tcpclient\src\main\scala\TCPClient.scala
+2020.12.12 16:33:18 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 16:33:18 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 16:33:40 WARN  no build target for: C:\Users\user\CandS\tcpclient\src\main\scala\TCPClient.scala
+2020.12.12 16:34:14 WARN  no build target for: C:\Users\user\CandS\tcpclient\src\main\scala\TCPClient.scala
+Dec 12, 2020 4:42:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 139
+Dec 12, 2020 4:47:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 155
+Dec 12, 2020 4:47:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 157
+2020.12.12 16:47:05 INFO  time: code lens generation in 3.48s
+Exception in thread "pool-3-thread-1" java.lang.Error: java.lang.InterruptedException
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1155)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	... 2 more
+Dec 12, 2020 4:51:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 210
+Dec 12, 2020 4:51:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 211
+Dec 12, 2020 4:51:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 213
+Dec 12, 2020 4:51:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 214
+Dec 12, 2020 4:51:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 218
+2020.12.12 16:51:06 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 16:51:06 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 16:51:06 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 16:51:06 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Dec 12, 2020 4:51:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 256
+Dec 12, 2020 4:51:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 253
+2020.12.12 16:51:21 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+Dec 12, 2020 4:51:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 262
+Dec 12, 2020 4:51:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 264
+Dec 12, 2020 4:51:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 271
+Dec 12, 2020 4:52:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 307
+Dec 12, 2020 4:52:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 319
+Dec 12, 2020 4:52:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 316
+Dec 12, 2020 4:52:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 334
+Dec 12, 2020 4:52:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 337
+Dec 12, 2020 4:52:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 345
+Dec 12, 2020 4:52:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 324
+Dec 12, 2020 4:52:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 351
+Dec 12, 2020 4:52:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 350
+Dec 12, 2020 4:52:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 355
+Dec 12, 2020 4:52:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 352
+Dec 12, 2020 4:52:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 356
+Dec 12, 2020 4:53:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 459
+Dec 12, 2020 4:53:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 460
+2020.12.12 16:53:19 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\Item.scala
+Dec 12, 2020 4:53:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 464
+Dec 12, 2020 4:53:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 466
+Dec 12, 2020 4:53:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 476
+2020.12.12 16:53:30 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+Dec 12, 2020 4:53:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 501
+2020.12.12 16:54:08 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 16:54:08 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 16:54:10 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Exception in thread "pool-3-thread-2" java.lang.Error: java.lang.InterruptedException
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1155)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	... 2 more
+Dec 12, 2020 4:54:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 547
+2020.12.12 16:54:10 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 16:54:43 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 16:54:46 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 16:54:48 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 16:54:48 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 16:55:05 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 16:57:09 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\Item.scala
+2020.12.12 16:57:12 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 16:57:14 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 16:57:14 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+Dec 12, 2020 4:57:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 802
+2020.12.12 16:57:44 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 16:58:11 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 16:58:11 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 16:58:11 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 16:58:50 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Exception in thread "pool-3-thread-3" java.lang.Error: java.lang.InterruptedException
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1155)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	... 2 more
+2020.12.12 16:58:50 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 16:58:50 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+Dec 12, 2020 5:00:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1020
+2020.12.12 17:01:08 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 17:03:42 INFO  time: code lens generation in 5.19s
+Dec 12, 2020 5:09:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1081
+Dec 12, 2020 5:09:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1082
+Dec 12, 2020 5:09:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1087
+Dec 12, 2020 5:09:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1086
+Dec 12, 2020 5:09:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1089
+2020.12.12 17:09:36 INFO  time: code lens generation in 4.28s
+Dec 12, 2020 5:09:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1093
+Dec 12, 2020 5:09:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1092
+Dec 12, 2020 5:09:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1098
+Dec 12, 2020 5:09:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1097
+2020.12.12 17:09:39 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 17:09:41 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 17:09:41 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+Dec 12, 2020 5:09:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1102
+Dec 12, 2020 5:09:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1101
+2020.12.12 17:10:08 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+Dec 12, 2020 5:10:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1109
+Dec 12, 2020 5:10:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1110
+Dec 12, 2020 5:10:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1112
+Dec 12, 2020 5:10:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1114
+Dec 12, 2020 5:10:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1117
+Dec 12, 2020 5:10:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1113
+Dec 12, 2020 5:10:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1121
+Dec 12, 2020 5:10:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1120
+Dec 12, 2020 5:10:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1126
+Dec 12, 2020 5:10:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1125
+Dec 12, 2020 5:10:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1104
+2020.12.12 17:10:10 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 17:10:10 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 17:10:10 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+Dec 12, 2020 5:10:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1128
+Dec 12, 2020 5:10:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1129
+Dec 12, 2020 5:10:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1134
+Dec 12, 2020 5:10:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1136
+Dec 12, 2020 5:10:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1139
+Dec 12, 2020 5:10:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1135
+Dec 12, 2020 5:10:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1143
+Dec 12, 2020 5:10:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1142
+2020.12.12 17:10:12 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+Dec 12, 2020 5:10:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1132
+Dec 12, 2020 5:10:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1145
+Dec 12, 2020 5:10:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1146
+Dec 12, 2020 5:11:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1159
+2020.12.12 17:11:21 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Dec 12, 2020 5:11:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1183
+Dec 12, 2020 5:11:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1186
+Dec 12, 2020 5:11:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1184
+Dec 12, 2020 5:11:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1187
+Dec 12, 2020 5:11:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1191
+Dec 12, 2020 5:11:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1190
+Dec 12, 2020 5:11:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1185
+2020.12.12 17:11:21 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\Item.scala
+Dec 12, 2020 5:11:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1192
+2020.12.12 17:11:21 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 17:11:21 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 17:11:21 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\Item.scala
+Dec 12, 2020 5:11:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1199
+2020.12.12 17:13:18 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 17:13:24 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 17:16:02 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 17:16:04 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+Dec 12, 2020 5:16:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1342
+Dec 12, 2020 5:16:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1347
+2020.12.12 17:16:09 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 17:16:15 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 17:16:15 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 17:19:17 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 17:19:44 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 17:19:47 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+Dec 12, 2020 5:21:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1491
+Dec 12, 2020 5:21:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1494
+2020.12.12 17:22:40 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 17:23:21 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 17:23:21 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 17:23:30 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 17:23:30 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 17:23:30 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 17:23:33 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 17:23:33 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 17:23:33 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+Dec 12, 2020 5:23:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1610
+Dec 12, 2020 5:23:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1612
+2020.12.12 17:23:40 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 17:23:40 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+Dec 12, 2020 5:23:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1637
+Dec 12, 2020 5:23:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1636
+Dec 12, 2020 5:23:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1643
+2020.12.12 17:23:51 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+Dec 12, 2020 5:24:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1701
+Dec 12, 2020 5:24:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1709
+2020.12.12 17:25:28 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 17:25:36 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+Dec 12, 2020 5:26:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1816
+2020.12.12 17:26:29 WARN  no build target for: C:\Users\user\CandS\tcpclient\src\main\scala\TCPClient.scala
+Dec 12, 2020 5:26:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1822
+2020.12.12 17:26:32 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 17:26:32 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 17:26:49 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 17:26:49 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 17:26:49 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+Exception in thread "pool-3-thread-4" java.lang.Error: java.lang.InterruptedException
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1155)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	... 2 more
+Dec 12, 2020 5:26:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1855
+2020.12.12 17:26:51 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Exception in thread "pool-3-thread-5" java.lang.Error: java.lang.InterruptedException
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1155)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	... 2 more
+2020.12.12 17:26:51 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 17:26:51 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 17:27:16 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 17:27:16 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 17:27:16 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 17:27:35 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+Dec 12, 2020 5:29:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1955
+Dec 12, 2020 5:29:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1960
+Dec 12, 2020 5:29:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1970
+Dec 12, 2020 5:29:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1974
+Dec 12, 2020 5:29:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1977
+2020.12.12 17:29:50 INFO  time: code lens generation in 12s
+2020.12.12 17:29:50 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Dec 12, 2020 5:29:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1981
+Dec 12, 2020 5:29:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1979
+Dec 12, 2020 5:29:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1984
+Dec 12, 2020 5:29:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1980
+Dec 12, 2020 5:29:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1988
+Dec 12, 2020 5:29:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1992
+Dec 12, 2020 5:29:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1982
+2020.12.12 17:29:57 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Dec 12, 2020 5:29:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1996
+Dec 12, 2020 5:29:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1986
+Dec 12, 2020 5:29:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2000
+Dec 12, 2020 5:29:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2002
+2020.12.12 17:29:57 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 17:29:57 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+Dec 12, 2020 5:29:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2004
+Dec 12, 2020 5:29:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2007
+Dec 12, 2020 5:29:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2006
+Dec 12, 2020 5:29:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2008
+Dec 12, 2020 5:29:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2009
+Dec 12, 2020 5:29:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2011
+2020.12.12 17:30:04 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 17:30:07 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+Dec 12, 2020 5:30:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2034
+2020.12.12 17:30:47 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 17:31:28 WARN  no build target for: C:\Users\user\CandS\tcpclient\src\main\scala\TCPClient.scala
+2020.12.12 17:31:28 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Dec 12, 2020 5:31:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2082
+2020.12.12 17:31:47 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 17:31:47 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 17:36:27 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 17:38:11 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+Dec 12, 2020 5:38:38 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:446)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Dec 12, 2020 5:38:39 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:446)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Dec 12, 2020 5:38:39 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:446)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Dec 12, 2020 5:38:39 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:446)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Dec 12, 2020 5:38:39 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:446)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Dec 12, 2020 5:38:39 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:446)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2020.12.12 17:38:40 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 17:38:40 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Dec 12, 2020 5:38:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2930
+2020.12.12 17:38:58 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 17:38:58 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 17:39:00 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 17:39:07 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 17:41:15 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 17:41:27 WARN  no build target for: C:\Users\user\CandS\tcpclient\src\main\scala\TCPClient.scala
+Dec 12, 2020 5:55:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3021
+Dec 12, 2020 5:56:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3026
+Dec 12, 2020 5:56:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3029
+Dec 12, 2020 5:56:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3028
+Dec 12, 2020 5:56:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3031
+Exception in thread "pool-3-thread-6" java.lang.Error: java.lang.InterruptedException
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1155)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	... 2 more
+2020.12.12 17:56:58 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 17:57:05 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Exception in thread "pool-3-thread-7" java.lang.Error: java.lang.InterruptedException
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1155)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	... 2 more
+2020.12.12 17:57:05 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Dec 12, 2020 5:57:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3071
+2020.12.12 17:57:05 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Dec 12, 2020 5:57:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3074
+Dec 12, 2020 5:57:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3075
+2020.12.12 17:57:05 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Dec 12, 2020 5:57:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3079
+Dec 12, 2020 5:57:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3081
+Dec 12, 2020 5:57:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3082
+Dec 12, 2020 5:57:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3083
+Dec 12, 2020 5:57:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3085
+Dec 12, 2020 5:57:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3086
+Dec 12, 2020 5:57:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3088
+Dec 12, 2020 5:57:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3089
+Dec 12, 2020 5:57:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3091
+Dec 12, 2020 5:57:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3092
+Dec 12, 2020 5:57:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3078
+Dec 12, 2020 5:57:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3096
+2020.12.12 17:57:09 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 17:57:09 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+Dec 12, 2020 5:57:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3100
+Dec 12, 2020 5:57:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3099
+Dec 12, 2020 5:57:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3104
+Dec 12, 2020 5:57:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3106
+Dec 12, 2020 5:57:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3103
+2020.12.12 17:57:10 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+Dec 12, 2020 5:57:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3109
+2020.12.12 17:57:19 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 17:57:19 WARN  no build target for: C:\Users\user\CandS\tcpclient\src\main\scala\TCPClient.scala
+Dec 12, 2020 5:57:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3137
+2020.12.12 17:57:27 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 17:57:27 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 17:57:28 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Dec 12, 2020 5:58:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3170
+2020.12.12 17:58:29 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 18:00:18 INFO  time: code lens generation in 9.14s
+Dec 12, 2020 6:00:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3194
+Dec 12, 2020 6:00:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3195
+Dec 12, 2020 6:00:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3197
+Dec 12, 2020 6:00:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3192
+Dec 12, 2020 6:00:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3202
+Dec 12, 2020 6:00:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3205
+2020.12.12 18:00:29 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 18:00:29 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Exception in thread "pool-3-thread-8" java.lang.Error: java.lang.InterruptedException
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1155)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	... 2 more
+Dec 12, 2020 6:00:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3206
+2020.12.12 18:00:31 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 18:01:10 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+Dec 12, 2020 6:06:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3235
+Dec 12, 2020 6:06:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3238
+Dec 12, 2020 6:06:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3237
+2020.12.12 18:06:25 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 18:06:25 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 18:06:25 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Dec 12, 2020 6:06:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3240
+Dec 12, 2020 6:06:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3241
+Dec 12, 2020 6:06:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3249
+Dec 12, 2020 6:06:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3250
+Dec 12, 2020 6:06:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3253
+Dec 12, 2020 6:06:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3252
+Dec 12, 2020 6:06:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3251
+Dec 12, 2020 6:06:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3257
+2020.12.12 18:06:26 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 18:06:27 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 18:06:27 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 18:09:43 INFO  Started: Metals version 0.9.7 in workspace 'C:\Users\user\CandS' for client vscode.
+2020.12.12 18:09:44 INFO  time: initialize in 1.47s
+2020.12.12 18:09:49 WARN  Build server is not auto-connectable.
+2020.12.12 18:09:49 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 18:09:49 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 18:09:49 WARN  no build target for: C:\Users\user\CandS\tcpclient\src\main\scala\TCPClient.scala
+2020.12.12 18:09:52 INFO  no build target: using presentation compiler with only scala-library
+2020.12.12 18:11:51 INFO  shutting down Metals
+2020.12.12 20:13:01 INFO  Started: Metals version 0.9.7 in workspace 'C:\Users\user\CandS' for client vscode.
+2020.12.12 20:13:03 INFO  time: initialize in 1.88s
+2020.12.12 20:13:05 WARN  Build server is not auto-connectable.
+2020.12.12 20:13:05 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 20:13:05 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 20:13:09 INFO  no build target: using presentation compiler with only scala-library
+2020.12.12 21:33:00 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+Dec 12, 2020 9:33:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 102
+2020.12.12 21:33:50 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 21:34:15 WARN  no build target for: C:\Users\user\CandS\tcpclient\src\main\scala\TCPClient.scala
+Dec 12, 2020 9:34:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 126
+2020.12.12 21:34:16 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\Item.scala
+2020.12.12 21:40:17 WARN  no build target for: C:\Users\user\CandS\tcpclient\src\main\scala\TCPClient.scala
+2020.12.12 21:41:10 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 21:41:16 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 21:41:32 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 21:42:05 WARN  no build target for: C:\Users\user\CandS\tcpclient\src\main\scala\TCPClient.scala
+2020.12.12 21:45:35 INFO  time: code lens generation in 5.29s
+Dec 12, 2020 9:46:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 940
+2020.12.12 21:46:48 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+Dec 12, 2020 9:50:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 965
+Dec 12, 2020 9:50:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 980
+Dec 12, 2020 9:50:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 982
+Dec 12, 2020 9:50:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 998
+Dec 12, 2020 9:50:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1039
+Dec 12, 2020 9:50:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1060
+Dec 12, 2020 9:50:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1067
+Dec 12, 2020 9:50:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1069
+Dec 12, 2020 9:50:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1068
+Dec 12, 2020 9:50:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1070
+Dec 12, 2020 9:50:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1073
+Dec 12, 2020 9:50:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1072
+Dec 12, 2020 9:50:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1077
+Dec 12, 2020 9:50:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1076
+Dec 12, 2020 9:50:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1066
+Dec 12, 2020 9:50:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1084
+2020.12.12 21:50:46 WARN  no build target for: C:\Users\user\CandS\tcpclient\src\main\scala\TCPClient.scala
+2020.12.12 21:52:33 INFO  shutting down Metals
+2020.12.12 21:53:47 INFO  Started: Metals version 0.9.7 in workspace 'C:\Users\user\CandS' for client vscode.
+2020.12.12 21:53:48 INFO  time: initialize in 1.46s
+2020.12.12 21:53:50 WARN  Build server is not auto-connectable.
+2020.12.12 21:53:50 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 21:53:50 WARN  no build target for: C:\Users\user\CandS\tcpclient\src\main\scala\TCPClient.scala
+2020.12.12 21:54:00 INFO  no build target: using presentation compiler with only scala-library
+2020.12.12 21:57:20 INFO  shutting down Metals
+2020.12.12 22:01:10 INFO  Started: Metals version 0.9.7 in workspace 'C:\Users\user\CandS' for client vscode.
+2020.12.12 22:01:10 INFO  time: initialize in 0.57s
+2020.12.12 22:01:11 WARN  Build server is not auto-connectable.
+2020.12.12 22:01:11 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 22:01:11 WARN  no build target for: C:\Users\user\CandS\tcpclient\src\main\scala\TCPClient.scala
+2020.12.12 22:01:11 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 22:01:15 INFO  no build target: using presentation compiler with only scala-library
+2020.12.12 22:02:04 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 22:02:18 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 22:02:18 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 22:02:18 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 22:02:18 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 22:04:46 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 22:04:50 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Dec 12, 2020 10:04:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 188
+2020.12.12 22:04:50 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Dec 12, 2020 10:04:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 191
+2020.12.12 22:04:50 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 22:04:50 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Exception in thread "pool-3-thread-1" java.lang.Error: java.lang.InterruptedException
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1155)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	... 2 more
+2020.12.12 22:04:50 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 22:04:50 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 22:06:03 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 22:06:03 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 22:06:03 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 22:06:06 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 22:06:06 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 22:06:06 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 22:06:27 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 22:08:04 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 22:08:10 INFO  shutting down Metals
+2020.12.12 22:13:42 INFO  Started: Metals version 0.9.7 in workspace 'C:\Users\user\CandS' for client vscode.
+2020.12.12 22:13:43 INFO  time: initialize in 0.68s
+2020.12.12 22:13:44 WARN  Build server is not auto-connectable.
+2020.12.12 22:13:44 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 22:13:44 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 22:13:48 INFO  no build target: using presentation compiler with only scala-library
+2020.12.12 22:14:23 INFO  shutting down Metals
+2020.12.12 22:16:26 INFO  Started: Metals version 0.9.7 in workspace 'C:\Users\user\CandS' for client vscode.
+2020.12.12 22:16:28 INFO  time: initialize in 1.62s
+2020.12.12 22:16:29 WARN  Build server is not auto-connectable.
+2020.12.12 22:16:29 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 22:16:29 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 22:16:34 INFO  no build target: using presentation compiler with only scala-library
+2020.12.12 22:20:15 INFO  time: code lens generation in 2.81s
+2020.12.12 22:28:57 INFO  shutting down Metals
+2020.12.13 10:33:39 INFO  Started: Metals version 0.9.7 in workspace 'C:\Users\user\CandS' for client vscode.
+2020.12.13 10:33:40 INFO  time: initialize in 0.9s
+2020.12.13 10:33:42 WARN  Build server is not auto-connectable.
+2020.12.13 10:33:42 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 10:33:42 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.13 10:33:59 INFO  no build target: using presentation compiler with only scala-library
+2020.12.13 10:46:48 INFO  shutting down Metals
+2020.12.13 15:01:45 INFO  Started: Metals version 0.9.7 in workspace 'C:\Users\user\CandS' for client vscode.
+2020.12.13 15:01:46 INFO  time: initialize in 1.26s
+2020.12.13 15:01:48 WARN  Build server is not auto-connectable.
+2020.12.13 15:01:48 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 15:01:48 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\Item.scala
+2020.12.13 15:01:48 WARN  no build target for: C:\Users\user\CandS\tcpclient\src\main\scala\TCPClient.scala
+2020.12.13 15:01:48 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.13 15:01:54 INFO  no build target: using presentation compiler with only scala-library
+2020.12.13 15:03:52 INFO  time: code lens generation in 2.19s
+2020.12.13 15:06:37 INFO  shutting down Metals
+2020.12.13 15:10:25 INFO  Started: Metals version 0.9.7 in workspace 'C:\Users\user\CandS' for client vscode.
+2020.12.13 15:10:26 INFO  time: initialize in 0.78s
+2020.12.13 15:10:27 WARN  Build server is not auto-connectable.
+2020.12.13 15:10:27 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 15:10:27 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.13 15:10:30 INFO  no build target: using presentation compiler with only scala-library
+2020.12.13 15:11:07 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\Item.scala
+2020.12.13 15:13:26 WARN  no build target for: C:\Users\user\CandS\tcpclient\src\main\scala\TCPClient.scala
+2020.12.13 15:15:55 INFO  shutting down Metals
+2020.12.13 15:17:04 INFO  Started: Metals version 0.9.7 in workspace 'C:\Users\user\CandS' for client vscode.
+2020.12.13 15:17:05 INFO  time: initialize in 1.02s
+2020.12.13 15:17:06 WARN  Build server is not auto-connectable.
+2020.12.13 15:17:06 WARN  no build tool detected in workspace 'C:\Users\user\CandS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 15:17:06 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\Item.scala
+2020.12.13 15:17:06 WARN  no build target for: C:\Users\user\CandS\tcpclient\src\main\scala\TCPClient.scala
+2020.12.13 15:17:06 WARN  no build target for: C:\Users\user\CandS\tcpserver\src\main\scala\TCPServer.scala
+2020.12.13 15:17:09 INFO  no build target: using presentation compiler with only scala-library
+2020.12.13 15:17:20 INFO  shutting down Metals

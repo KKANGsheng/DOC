@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.immutable.Map[java.lang.String, scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]]",{"2.12.10":{"hashes":[["C:\\Users\\user\\CandS\\tcpclient\\src\\main\\scala\\TCPClient.scala","380cd04843359122b121299fdc87fddfc8a78131"]],"lastModifiedTimes":[]}}]

@@ -1,0 +1,222 @@
+2020.09.21 11:36:08 INFO  started: Metals version 0.9.3 in workspace 'C:\Users\user\tcpserver' for client vscode.
+2020.09.21 11:36:09 INFO  time: initialize in 0.77s
+2020.09.21 11:36:10 WARN  no build tool detected in workspace 'C:\Users\user\tcpserver'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.21 11:36:10 INFO  no build target: using presentation compiler with only scala-library
+2020.09.21 11:36:14 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+Sep 21, 2020 11:36:14 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+2020.09.21 11:36:25 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 11:36:25 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 11:37:30 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 11:37:44 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 11:37:52 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 11:39:24 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+Sep 21, 2020 11:39:29 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 310
+2020.09.21 11:40:13 WARN  no build tool detected in workspace 'C:\Users\user\tcpserver'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.21 11:40:13 WARN  no build tool detected in workspace 'C:\Users\user\tcpserver'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.21 11:40:13 WARN  no build tool detected in workspace 'C:\Users\user\tcpserver'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.21 11:40:13 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 11:42:14 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 11:42:28 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 11:42:56 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 11:43:00 WARN  no build tool detected in workspace 'C:\Users\user\tcpserver'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.21 11:43:00 WARN  no build tool detected in workspace 'C:\Users\user\tcpserver'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.21 11:43:00 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 11:43:53 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 11:44:16 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 11:44:35 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 11:45:23 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 11:45:29 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 11:45:44 WARN  no build tool detected in workspace 'C:\Users\user\tcpserver'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.21 11:45:44 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 11:45:51 WARN  no build tool detected in workspace 'C:\Users\user\tcpserver'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.21 11:45:51 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 11:46:11 WARN  no build tool detected in workspace 'C:\Users\user\tcpserver'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.21 11:46:11 WARN  no build tool detected in workspace 'C:\Users\user\tcpserver'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.21 11:46:11 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 11:46:11 WARN  no build tool detected in workspace 'C:\Users\user\tcpserver'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.21 11:46:13 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 11:46:43 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 11:47:38 WARN  no build tool detected in workspace 'C:\Users\user\tcpserver'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.21 11:47:38 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 11:48:02 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 11:48:07 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 11:51:17 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 11:51:23 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 11:51:35 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 11:51:50 WARN  no build tool detected in workspace 'C:\Users\user\tcpserver'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.21 11:51:50 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 11:51:50 WARN  no build tool detected in workspace 'C:\Users\user\tcpserver'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.21 11:53:34 WARN  no build tool detected in workspace 'C:\Users\user\tcpserver'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Sep 21, 2020 12:05:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1213
+Sep 21, 2020 12:05:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1214
+2020.09.21 12:05:40 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 12:05:44 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 12:05:54 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 12:06:03 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+Sep 21, 2020 12:06:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1300
+Sep 21, 2020 12:06:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1303
+2020.09.21 12:07:31 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 12:07:58 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+Sep 21, 2020 12:18:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1477
+2020.09.21 12:18:22 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 12:20:06 WARN  no build tool detected in workspace 'C:\Users\user\tcpserver'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.21 12:20:06 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 12:20:13 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 12:21:26 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 12:21:34 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 12:21:37 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 12:21:40 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 12:21:50 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 12:21:53 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 12:22:17 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 12:22:20 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 12:22:46 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 12:22:52 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 12:22:57 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 12:23:09 WARN  no build tool detected in workspace 'C:\Users\user\tcpserver'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.21 12:23:13 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 12:23:32 WARN  no build tool detected in workspace 'C:\Users\user\tcpserver'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.21 12:23:32 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 12:23:32 WARN  no build tool detected in workspace 'C:\Users\user\tcpserver'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Sep 21, 2020 12:23:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1891
+2020.09.21 12:23:43 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 12:23:47 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 12:24:06 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 12:24:14 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 12:24:17 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 12:24:25 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 12:28:14 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 12:28:25 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 12:28:27 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 12:31:05 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 12:31:14 WARN  no build tool detected in workspace 'C:\Users\user\tcpserver'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.21 12:31:18 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 12:31:21 WARN  no build tool detected in workspace 'C:\Users\user\tcpserver'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.21 12:31:21 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 12:31:21 WARN  no build tool detected in workspace 'C:\Users\user\tcpserver'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.21 12:31:28 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 12:31:40 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 12:32:25 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 12:32:25 WARN  no build tool detected in workspace 'C:\Users\user\tcpserver'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.21 12:32:33 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 12:32:36 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 12:32:36 WARN  no build tool detected in workspace 'C:\Users\user\tcpserver'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.21 12:32:53 WARN  no build tool detected in workspace 'C:\Users\user\tcpserver'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.21 12:33:03 WARN  no build tool detected in workspace 'C:\Users\user\tcpserver'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.21 12:33:03 WARN  no build tool detected in workspace 'C:\Users\user\tcpserver'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.21 12:33:03 WARN  no build tool detected in workspace 'C:\Users\user\tcpserver'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.21 12:33:03 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 12:33:03 WARN  no build tool detected in workspace 'C:\Users\user\tcpserver'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.21 12:33:08 WARN  no build tool detected in workspace 'C:\Users\user\tcpserver'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.21 12:33:08 WARN  no build tool detected in workspace 'C:\Users\user\tcpserver'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.21 12:33:08 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 12:33:34 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 12:35:14 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 12:35:50 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+Sep 21, 2020 12:36:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2507
+Sep 21, 2020 12:36:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2508
+2020.09.21 12:36:09 WARN  no build tool detected in workspace 'C:\Users\user\tcpserver'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Sep 21, 2020 12:36:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2511
+Sep 21, 2020 12:36:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2514
+2020.09.21 12:36:09 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 12:36:11 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 12:37:25 WARN  code navigation does not work for the file 'C:\Users\user\tcpserver\src\main\scala\TCPServer.scala' because it doesn't belong to a build target.
+2020.09.21 12:37:25 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 12:38:02 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+something's wrong: no file:///C:/Users/user/tcpserver/src/main/scala/TCPServer.scala in scala.concurrent.Future[java.net.Socket]RangePosition(file:///C:/Users/user/tcpserver/src/main/scala/TCPServer.scala, 454, 454, 468)
+Sep 21, 2020 12:38:50 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+2020.09.21 12:39:58 WARN  code navigation does not work for the file 'C:\Users\user\tcpserver\src\main\scala\TCPServer.scala' because it doesn't belong to a build target.
+2020.09.21 12:39:58 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 12:40:02 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 12:40:02 WARN  code navigation does not work for the file 'C:\Users\user\tcpserver\src\main\scala\TCPServer.scala' because it doesn't belong to a build target.
+2020.09.21 12:40:27 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.09.21 12:40:27 WARN  code navigation does not work for the file 'C:\Users\user\tcpserver\src\main\scala\TCPServer.scala' because it doesn't belong to a build target.
+2020.09.21 12:42:44 INFO  shutting down Metals
+2020.12.10 23:34:41 INFO  Started: Metals version 0.9.7 in workspace 'C:\Users\user\tcpserver' for client vscode.
+2020.12.10 23:34:42 INFO  time: initialize in 0.82s
+2020.12.10 23:34:43 WARN  Build server is not auto-connectable.
+2020.12.10 23:34:43 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.12.10 23:34:47 INFO  no build target: using presentation compiler with only scala-library
+2020.12.10 23:35:46 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.12.10 23:36:01 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.12.10 23:36:15 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.12.10 23:36:15 WARN  code navigation does not work for the file 'C:\Users\user\tcpserver\src\main\scala\TCPServer.scala' because it doesn't belong to a build target.
+2020.12.10 23:37:54 WARN  code navigation does not work for the file 'C:\Users\user\tcpserver\src\main\scala\TCPServer.scala' because it doesn't belong to a build target.
+2020.12.10 23:37:54 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.12.10 23:38:33 WARN  code navigation does not work for the file 'C:\Users\user\tcpserver\src\main\scala\TCPServer.scala' because it doesn't belong to a build target.
+2020.12.10 23:38:33 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.12.10 23:40:04 WARN  code navigation does not work for the file 'C:\Users\user\tcpserver\src\main\scala\TCPServer.scala' because it doesn't belong to a build target.
+2020.12.10 23:40:04 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.12.10 23:40:04 WARN  code navigation does not work for the file 'C:\Users\user\tcpserver\src\main\scala\TCPServer.scala' because it doesn't belong to a build target.
+2020.12.10 23:40:14 WARN  code navigation does not work for the file 'C:\Users\user\tcpserver\src\main\scala\TCPServer.scala' because it doesn't belong to a build target.
+2020.12.10 23:40:14 WARN  code navigation does not work for the file 'C:\Users\user\tcpserver\src\main\scala\TCPServer.scala' because it doesn't belong to a build target.
+2020.12.10 23:40:14 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.12.10 23:40:34 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.12.10 23:40:34 WARN  code navigation does not work for the file 'C:\Users\user\tcpserver\src\main\scala\TCPServer.scala' because it doesn't belong to a build target.
+2020.12.10 23:40:39 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.12.10 23:40:47 WARN  code navigation does not work for the file 'C:\Users\user\tcpserver\src\main\scala\TCPServer.scala' because it doesn't belong to a build target.
+2020.12.10 23:40:47 WARN  code navigation does not work for the file 'C:\Users\user\tcpserver\src\main\scala\TCPServer.scala' because it doesn't belong to a build target.
+2020.12.10 23:40:47 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.12.10 23:40:54 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.12.10 23:41:01 WARN  code navigation does not work for the file 'C:\Users\user\tcpserver\src\main\scala\TCPServer.scala' because it doesn't belong to a build target.
+2020.12.10 23:41:01 WARN  code navigation does not work for the file 'C:\Users\user\tcpserver\src\main\scala\TCPServer.scala' because it doesn't belong to a build target.
+2020.12.10 23:41:01 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.12.10 23:41:23 WARN  code navigation does not work for the file 'C:\Users\user\tcpserver\src\main\scala\TCPServer.scala' because it doesn't belong to a build target.
+2020.12.10 23:41:23 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.12.10 23:41:50 WARN  code navigation does not work for the file 'C:\Users\user\tcpserver\src\main\scala\TCPServer.scala' because it doesn't belong to a build target.
+2020.12.10 23:41:50 WARN  code navigation does not work for the file 'C:\Users\user\tcpserver\src\main\scala\TCPServer.scala' because it doesn't belong to a build target.
+2020.12.10 23:41:50 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.12.10 23:41:50 WARN  code navigation does not work for the file 'C:\Users\user\tcpserver\src\main\scala\TCPServer.scala' because it doesn't belong to a build target.
+2020.12.10 23:41:56 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.12.10 23:42:21 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.12.10 23:42:53 WARN  code navigation does not work for the file 'C:\Users\user\tcpserver\src\main\scala\TCPServer.scala' because it doesn't belong to a build target.
+2020.12.10 23:42:53 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.12.10 23:43:13 WARN  code navigation does not work for the file 'C:\Users\user\tcpserver\src\main\scala\TCPServer.scala' because it doesn't belong to a build target.
+2020.12.10 23:43:13 WARN  code navigation does not work for the file 'C:\Users\user\tcpserver\src\main\scala\TCPServer.scala' because it doesn't belong to a build target.
+2020.12.10 23:43:13 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.12.10 23:43:41 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+something's wrong: no file:///C:/Users/user/tcpserver/src/main/scala/TCPServer.scala in scala.concurrent.Future[java.net.Socket]RangePosition(file:///C:/Users/user/tcpserver/src/main/scala/TCPServer.scala, 532, 532, 546)
+something's wrong: no file:///C:/Users/user/tcpserver/src/main/scala/TCPServer.scala in scala.concurrent.Future[java.net.Socket]RangePosition(file:///C:/Users/user/tcpserver/src/main/scala/TCPServer.scala, 532, 532, 546)
+something's wrong: no file:///C:/Users/user/tcpserver/src/main/scala/TCPServer.scala in scala.concurrent.Future[java.net.Socket]RangePosition(file:///C:/Users/user/tcpserver/src/main/scala/TCPServer.scala, 532, 532, 546)
+Dec 11, 2020 12:23:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 445
+Dec 11, 2020 12:23:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 446
+Dec 11, 2020 12:23:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 447
+Dec 11, 2020 12:23:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 449
+2020.12.11 00:23:45 WARN  code navigation does not work for the file 'C:\Users\user\tcpserver\src\main\scala\TCPServer.scala' because it doesn't belong to a build target.
+2020.12.11 00:23:51 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.12.11 09:59:13 INFO  Started: Metals version 0.9.7 in workspace 'C:\Users\user\tcpserver' for client vscode.
+2020.12.11 09:59:15 INFO  time: initialize in 1.77s
+2020.12.11 09:59:21 WARN  Build server is not auto-connectable.
+2020.12.11 09:59:21 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.12.11 09:59:21 INFO  skipping build import with status 'Requested'
+2020.12.11 09:59:47 INFO  no build target: using presentation compiler with only scala-library
+2020.12.11 14:47:04 INFO  shutting down Metals
+2020.12.11 17:31:22 INFO  Started: Metals version 0.9.7 in workspace 'C:\Users\user\tcpserver' for client vscode.
+2020.12.11 17:31:28 INFO  time: initialize in 5.62s
+2020.12.11 17:31:38 WARN  Build server is not auto-connectable.
+2020.12.11 17:31:38 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.12.11 17:31:38 INFO  skipping build import with status 'Requested'
+2020.12.11 17:31:49 INFO  no build target: using presentation compiler with only scala-library
+2020.12.12 12:55:18 INFO  Started: Metals version 0.9.7 in workspace 'C:\Users\user\tcpserver' for client vscode.
+2020.12.12 12:55:19 INFO  time: initialize in 0.63s
+2020.12.12 12:55:24 WARN  Build server is not auto-connectable.
+2020.12.12 12:55:24 WARN  no build target for: C:\Users\user\tcpserver\src\main\scala\TCPServer.scala
+2020.12.12 12:55:24 INFO  skipping build import with status 'Requested'
+2020.12.12 12:55:28 INFO  no build target: using presentation compiler with only scala-library
